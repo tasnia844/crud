@@ -1,0 +1,11 @@
+.card-header h2{
+    color:red;
+    text-transform: uppercase;
+
+}
+.container{
+    background: pink;
+}
+.card{
+    background: #FFD900;
+}
